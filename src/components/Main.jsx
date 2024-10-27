@@ -20,7 +20,7 @@ const Main = () => {
         <div >
           <span className='text-xl lg:text-2xl mb-6'>We can help you to</span><br/>
           <span>Reduce your Pain</span><br/>
-          <span>Improve your Movements</span><br/>
+          <span>Improve your Movement</span><br/>
           <span>Prevent Recurrence</span><br/>
           <button className='overflow-hidden border-2 border-sky-900 text-xl lg:text-2xl ease-in-out duration-500 
           rounded-full h-10 lg:h-20 w-1/2 lg:w-1/4 mt-10 hover:bg-sky-800 hover:text-white' >Contact Us</button>
